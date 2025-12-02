@@ -336,6 +336,10 @@ a {
   text-align: left;
 }
 
+#center {
+  text-align: center;
+}
+
 /* Blog component classes */
 .blog-container {
   width: 70%;
