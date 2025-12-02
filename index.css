@@ -340,7 +340,7 @@ a {
 .blog-container {
   width: 70%;
   margin: auto;
-  padding-bottom: 5rem;
+  padding-bottom: 0rem;
 }
 
 .blog-container-narrow {
@@ -387,6 +387,7 @@ a {
   margin-top: 30px;
   overflow: hidden;
   padding: 20px;
+  margin-bottom: 0;
 }
 
 .info-list-item h3 {
