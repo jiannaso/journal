@@ -316,7 +316,7 @@ a {
   /* color: gray;
    */
 
-  color: rgba(255, 120, 172);
+  color: #E1417F;
 
   text-decoration: none;
 }
@@ -350,6 +350,7 @@ a {
 
 .blog-container p {
   margin-left: 33px;
+  padding-right: 20px;
 }
 .blog-container-narrow {
   width: 60%;
