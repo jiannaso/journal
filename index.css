@@ -345,20 +345,28 @@ a {
   width: 70%;
   margin: auto;
   padding-bottom: 0rem;
+  text-align: left;
 }
 
+.blog-container p {
+  margin-left: 33px;
+}
 .blog-container-narrow {
   width: 60%;
   margin: auto;
-  text-align: center;
+  text-align: left;
   padding-bottom: 5rem;
 }
 
 .blog-title {
   color: black;
   padding-top: 5rem;
-}
+  text-align: center;
 
+}
+#center {
+  text-align: center;
+}
 .blog-title-small {
   padding-top: 6rem;
   padding-bottom: 3rem;
@@ -367,6 +375,8 @@ a {
 .blog-subtitle {
   padding-top: 3rem;
   padding-bottom: 0rem;
+  text-align: center !important;
+
 }
 
 .blog-quote {
