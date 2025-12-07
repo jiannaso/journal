@@ -424,6 +424,9 @@ a {
   .info-list-item {
     flex-direction: column !important;
   }
+  .blog-container {
+    width: 80% !important;
+  }
 
   .info-list-image {
     width: 100% !important;
